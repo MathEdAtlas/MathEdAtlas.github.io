@@ -13,7 +13,7 @@ They can also be used in conjunction with *Perturbations of the Sensible: An Aes
 - JRME 2000s [interactive](../jrme2000s/index.html)
 - JRME 2010s [interactive](../jrme2010s/index.html)
 ### Combined
-- JRME 1970-2019 [pdf](../combined/JRME 1970s-2010s Rainbow Blurred Borders.pdf)
+- JRME 1970-2019 [pdf](../combined/JRME1970s-2010s.pdf)
 
 ## Maps of *Educational Studies in Mathematics*
 - [ESM 2010s](../esm2010s/index.html)
