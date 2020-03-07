@@ -7,11 +7,11 @@ They can also be used in conjunction with *Perturbations of the Sensible: An Aes
 
 ## Maps of *The Journal for Research in Mathematics Education*
 ### by Decade
-- [JRME 1970s](../jrme1970s/index.html)
-- [JRME 1980s](../jrme1980s/index.html)
-- [JRME 1990s](../jrme1990s/index.html)
-- [JRME 2000s](../jrme2000s/index.html)
-- [JRME 2010s](../jrme2010s/index.html)
+- JRME 1970s [interactive](../jrme1970s/index.html) [static]
+- JRME 1980s [interactive](../jrme1980s/index.html)
+- JRME 1990s [interactive](../jrme1990s/index.html)
+- JRME 2000s [interactive](../jrme2000s/index.html)
+- JRME 2010s [interactive](../jrme2010s/index.html)
 ### Combined
 - JRME 1970-2019
 
