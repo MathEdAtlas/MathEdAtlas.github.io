@@ -16,7 +16,7 @@ They can also be used in conjunction with *Perturbations of the Sensible: An Aes
 - JRME 1970-2019
 
 ## Maps of *Educational Studies in Mathematics*
-- [ESM 2010s](../esm2010s/index.html)
+- ESM 2010s [interactive](../esm2010s/index.html)
 
 ## Maps of *for the learning of mathematics*
-- [flm 2010s](../flm2010s/index.html)
+- flm 2010s [interactive](../flm2010s/index.html)
