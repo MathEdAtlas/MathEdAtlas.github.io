@@ -27,8 +27,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": "Label"
+    "groupByEdgeDirection": true
   },
   "sigma": {
     "drawingProperties": {
