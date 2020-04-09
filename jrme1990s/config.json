@@ -3,14 +3,14 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "https://static.wixstatic.com/media/139cb7_1960c17b488147e99fbc1abbd45ca652~mv2.png/v1/fill/w_255,h_348,al_c,q_85,usm_0.66_1.00_0.01/JRME%20Cover.webp",
+    "link": "https://dubbschr.wixsite.com/mathedatlas/jrme",
     "text": "Christopher Dubbs"
   },
   "text": {
-    "more": "Long Des",
-    "intro": "Short des",
-    "title": "JRME 1990s"
+    "more": "The 22 bubbles of the JRME 1990s:\n(1) van Hiele Understanding and Development of Geometry\n(2) Equity and Politics of Mathematics Education\n(3) Number Sense\n(4) Children’s Place-Value Addition and Subtraction\n(5) Mathematics Knowledge for Teaching\n(6) Case Studies of Teachers\n(7) Word Problems and Problem-Solving\n(8) Probability\n(9) Children’s Learning in Classrooms\n(10) Second International Mathematics Study\n(11) Constructivist Research on Teaching and Learning\n(12) Problem Solving\n(13) Teachers of Mathematics\n(14) Mathematics Anxiety \u0026 Sex Differences\n(15) Cognitively Guided Instruction\n(16) Language and the Construction of Meaning\n(17) Multiplicative Reasoning\n(18) NCTM Standards \u0026 Culturally-Relevant Mathematics\n(19) Mathematics Achievement\n(20) Multicultural and Critical Mathematics Education\n(21) Critical Responses to Theories of Learning, and \n(22) Experience of Learning Mathematics.",
+    "intro": "Map of the JRME 1990s with 22 bubbles.",
+    "title": "JRME1990s"
   },
   "legend": {
     "edgeLabel": "cites",
@@ -19,12 +19,12 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "Bubble Name",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {

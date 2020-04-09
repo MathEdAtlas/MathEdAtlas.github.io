@@ -3,14 +3,14 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "https://static.wixstatic.com/media/139cb7_1960c17b488147e99fbc1abbd45ca652~mv2.png/v1/fill/w_255,h_348,al_c,q_85,usm_0.66_1.00_0.01/JRME%20Cover.webp",
+    "link": "https://dubbschr.wixsite.com/mathedatlas/jrme",
     "text": "Christopher Dubbs"
   },
   "text": {
-    "more": "Long Des",
-    "intro": "Short des",
-    "title": "JRME 1980s"
+    "more": "The 15 bubbles of the JRME 1980s:\n(1) Piagetian Cognitive Development of the Child\n(2) Child’s use of structure\n(3) Sex Differences\n(4) Estimation and Mental Arithmetic\n(5) Children’s Geometry (van Hiele)\n(6) Psychology of Mathematics for Instruction\n(7) Mathematical Thinking\n(8) Teaching Effect on Mathematics Learning\n(9) Developmental Mathematics\n(10) Arithmetic\n(11) Agenda for Action – Problem-Solving\n(12) Models/ Processes of Addition and Subtraction\n(13) Proportional Reasoning – Multiplication and Division Processes \u0026 Structure\n(14) International Policy and Responses, and \n(15) Algebraic Learning, Understanding, and Problem Solving.",
+    "intro": "Map of the JRME 1980s with 15 bubbles.",
+    "title": "JRME1970s"
   },
   "legend": {
     "edgeLabel": "cites",
@@ -19,12 +19,12 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "OriginalModClass",
+    "groupSelectorAttribute": "Bubble Name",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
