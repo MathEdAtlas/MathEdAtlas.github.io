@@ -1,0 +1,52 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://static.wixstatic.com/media/139cb7_64cdce9968fa48f7b87d593bce017ff2~mv2.png",
+    "link": "https://dubbschr.wixsite.com/mathedatlas/jrme",
+    "text": "Christopher Dubbs"
+  },
+  "text": {
+    "more": "The 18 bubbles of the JRME 1970s:\n(1) Computers and Statistical Methods in Mathematics Education, \n(2) Piaget’s Spatial Concepts, \n(3) Piaget’s Developmental Psychology, \n(4) Learning Sequences and Manipulatives, \n(5) Statistical Psychology of Learning, \n(6) International Comparative Assessment, \n(7) Heuristics and Processes of Problem Solving, \n(8) Effect of Activity-Oriented Instruction, \n(9) The Learning of Basic Facts, \n(10) Quantitative Research Methods, \n(11) Factors for Differences in Achievement, \n(12) Logic, \n(13) Geometry Secondary Mathematics Learning, \n(14) Conceptual Organizers and Assessment, \n(15) Attitude towards Mathematical Topics, \n(16) Word Problems, \n(17) Ability-Instruction Interaction, and \n(18) Attitude and Learning.",
+    "intro": "Map of the JRME 1970s with 18 bubbles.",
+    "title": "JRME1970s"
+  },
+  "legend": {
+    "edgeLabel": "cites",
+    "colorLabel": "Bubble",
+    "nodeLabel": "Reference"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Bubble",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
