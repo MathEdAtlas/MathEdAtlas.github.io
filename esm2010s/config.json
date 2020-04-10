@@ -3,14 +3,14 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
+    "file": "https://static.wixstatic.com/media/139cb7_786aa08b950e48e5829b9914d7200d2c~mv2.png",
+    "link": "https://dubbschr.wixsite.com/mathedatlas/esm",
     "text": "Christopher Dubbs"
   },
   "text": {
-    "more": "Long Des",
-    "intro": "Short des",
-    "title": "ESM 2010s"
+    "more": "The 8 bubbles of the ESM 2010s:\n(1) Critical Theories and Philosophy of Mathematics Education\n(2) Students’ Learning of Concepts\n(3) Students’ Understanding of Concepts\n(4) Teachers’ Knowledge and the Teaching of Mathematics\n(5) Proof and Argumentation\n(6) Embodied Cognition and Mathematical Objects\n(7) Mathematics beyond the Classroom\n(8) Student Identity, Language, and Discourse",
+    "intro": "Map of the ESM 2010s with 8 bubbles.",
+    "title": "ESM2010s"
   },
   "legend": {
     "edgeLabel": "cites",
@@ -19,11 +19,11 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "Bubble Name",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
