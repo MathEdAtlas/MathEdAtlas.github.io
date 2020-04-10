@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://dubbschr.wixsite.com/mathedatlas/esm",
+    "text": "Christopher Dubbs"
+  },
+  "text": {
+    "more": "The complete JRME 1970-2019 map. \nColor indicates decade:\npre-1960 - gray\n1960s - teal\n1970s - blue\n1980s - green\n1990s - yellow\n2000s - orange\n2010s - red",
+    "intro": "Map of the JRME 1970-2019.",
+    "title": "JRME1970-2019"
+  },
+  "legend": {
+    "edgeLabel": "cites",
+    "colorLabel": "Decade",
+    "nodeLabel": "Reference"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
